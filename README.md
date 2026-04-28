@@ -1,6 +1,6 @@
 # 📊 Hotel Booking Analysis Dashboard (Power BI)
 
-## 📌 Project OvervieW
+## 📌 Project Overview
 This project is developed during the Microsoft Elevate Internship (Power BI Track).
 It focuses on analyzing hotel booking data to generate meaningful insights.
 
